@@ -24,6 +24,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 
 Change
 Change 2
+Change 3
 - [ ] Introduction and Icebreaker
 - [ ] GitHub Actions Fundamentals
 - [ ] The YAML syntax
