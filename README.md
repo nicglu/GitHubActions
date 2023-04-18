@@ -23,6 +23,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 ### Day 1: 🚀 Getting started
 
 Change
+Change 2
 - [ ] Introduction and Icebreaker
 - [ ] GitHub Actions Fundamentals
 - [ ] The YAML syntax
